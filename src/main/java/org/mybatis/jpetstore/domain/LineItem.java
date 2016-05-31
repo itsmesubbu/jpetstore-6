@@ -34,6 +34,7 @@ public class LineItem implements Serializable {
   private BigDecimal unitPrice;
   private Item item;
   private BigDecimal total;
+   private int orderId1;
 
   public LineItem() {
   }
