@@ -42,6 +42,7 @@ public class Order implements Serializable {
   private String shipCountry;
   private String billAddress1;
   private String billAddress2;
+  private String billAddress3;
   private String billCity;
   private String billState;
   private String billZip;
